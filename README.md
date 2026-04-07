@@ -135,4 +135,13 @@ Sou estudante de Engenharia de Software e desenvolvedor em constante evolução.
 
 🤝 Em constante aprendizado e aberto a novos desafios e conexões!
 
-[def]: http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizfelipefr&theme=great_gatsby
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfelipefr/luizfelipefr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizfelipefr/luizfelipefr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizfelipefr/luizfelipefr/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
