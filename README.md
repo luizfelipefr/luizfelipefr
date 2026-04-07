@@ -13,10 +13,10 @@ Sou estudante de Engenharia de Software e desenvolvedor em constante evolução.
   <a href="https://github.com/luizfelipefr">
     <img src="https://img.shields.io/badge/GitHub-luizfelipefr-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/felipefr_">
+  <a href="https://instagram.com/felipfr_">
     <img src="https://img.shields.io/badge/Instagram-@felipfr_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-    <a href="www.linkedin.com/in/luiz-felipe-86a305324">
+    <a href="https://linkedin.com/in/luiz-felipe-86a305324">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
